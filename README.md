@@ -1,2 +1,2 @@
 # mekaywifi
-test-klcis
+test
